@@ -10,7 +10,7 @@ ubuntu  16.04 <br />
 kernel  4.13.0-36-generic <br /><br />
 
 $ snap list <br />
-Name               Version        Rev   Tracking  Publisher   Notes <br />
+Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Rev   Tracking  Publisher   Notes <br />
 core               16-2.36.3      6130  stable    canonical✓  core <br />
 notepad-plus-plus  7.6.2          173   stable    mmtrt       - <br />
 wine-platform      3.0.4-4.0~rc7  58    stable    mmtrt       - <br /><br />
