@@ -13,24 +13,24 @@ kernel  4.13.0-36-generic <br /><br />
 Name               Version        Rev   Tracking  Publisher   Notes <br />
 core               16-2.36.3      6130  stable    canonical✓  core <br />
 notepad-plus-plus  7.6.2          173   stable    mmtrt       - <br />
-wine-platform      3.0.4-4.0~rc7  58    stable    mmtrt       - <br />
+wine-platform      3.0.4-4.0~rc7  58    stable    mmtrt       - <br /><br />
 
-Update:
-snap interfaces | grep notepad-plus-plus
-:cups-control                    notepad-plus-plus
-:desktop                         notepad-plus-plus
-:desktop-legacy                  notepad-plus-plus
-:hardware-observe                notepad-plus-plus
-:home                            notepad-plus-plus
-:network                         notepad-plus-plus
-:opengl                          notepad-plus-plus
-:process-control                 notepad-plus-plus
-:removable-media                 notepad-plus-plus
-:wayland                         notepad-plus-plus
-:x11                             notepad-plus-plus
-wine-platform:wine-base-stable   notepad-plus-plus:wine-platform-plug
+Update: <br />
+snap interfaces | grep notepad-plus-plus <br />
+:cups-control                    notepad-plus-plus <br />
+:desktop                         notepad-plus-plus <br />
+:desktop-legacy                  notepad-plus-plus <br />
+:hardware-observe                notepad-plus-plus <br />
+:home                            notepad-plus-plus <br />
+:network                         notepad-plus-plus <br />
+:opengl                          notepad-plus-plus <br />
+:process-control                 notepad-plus-plus <br />
+:removable-media                 notepad-plus-plus <br />
+:wayland                         notepad-plus-plus <br />
+:x11                             notepad-plus-plus <br />
+wine-platform:wine-base-stable   notepad-plus-plus:wine-platform-plug <br /><br />
 
-If you don’t see wine-platform in ~$ snap list and/or ~$ snap interfaces | grep notepad-plus-plus, then  
-~$ snap install wine-platform
-~$ snap connect notepad-plus-plus:wine-platform-plug wine-platform:wine-base-stable
+If you don’t see wine-platform in ~$ snap list and/or ~$ snap interfaces | grep notepad-plus-plus, then  <br />
+~$ snap install wine-platform <br />
+~$ snap connect notepad-plus-plus:wine-platform-plug wine-platform:wine-base-stable <br />
 ~$ notepad-plus-plus
