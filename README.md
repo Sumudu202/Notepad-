@@ -17,18 +17,18 @@ wine-platform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      3.0.4-4.0~rc7&nbsp;&nbsp;
 
 Update: <br />
 snap interfaces | grep notepad-plus-plus <br />
-:cups-control                    notepad-plus-plus <br />
-:desktop                         notepad-plus-plus <br />
-:desktop-legacy                  notepad-plus-plus <br />
-:hardware-observe                notepad-plus-plus <br />
-:home                            notepad-plus-plus <br />
-:network                         notepad-plus-plus <br />
-:opengl                          notepad-plus-plus <br />
-:process-control                 notepad-plus-plus <br />
-:removable-media                 notepad-plus-plus <br />
-:wayland                         notepad-plus-plus <br />
-:x11                             notepad-plus-plus <br />
-wine-platform:wine-base-stable   notepad-plus-plus:wine-platform-plug <br /><br />
+:cups-control&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    notepad-plus-plus <br />
+:desktop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         notepad-plus-plus <br />
+:desktop-legacy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  notepad-plus-plus <br />
+:hardware-observe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                notepad-plus-plus <br />
+:home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            notepad-plus-plus <br />
+:network&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         notepad-plus-plus <br />
+:opengl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          notepad-plus-plus <br />
+:process-control&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 notepad-plus-plus <br />
+:removable-media&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 notepad-plus-plus <br />
+:wayland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         notepad-plus-plus <br />
+:x11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                             notepad-plus-plus <br />
+wine-platform:wine-base-stable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   notepad-plus-plus:wine-platform-plug <br /><br />
 
 If you don’t see wine-platform in ~$ snap list and/or ~$ snap interfaces | grep notepad-plus-plus, then  <br />
 ~$ snap install wine-platform <br />
