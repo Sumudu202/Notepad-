@@ -1,8 +1,8 @@
 # Notepad plus plus
 How to 'connect' notepad-plus-plus snap to the wine-platform snap in Ubuntu 16.04?
 
-System info:
-~$ snap --version
+System info:\n
+~$ snap --version\n
 snap    2.36.3
 snapd   2.36.3
 series  16
