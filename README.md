@@ -9,7 +9,11 @@ series  16 <br />
 ubuntu  16.04 <br />
 kernel  4.13.0-36-generic <br /><br />
 
-
+~$ snap list <br />
+Name               Version        Rev   Tracking  Publisher   Notes
+core               16-2.36.3      6130  stable    canonical✓  core
+notepad-plus-plus  7.6.2          173   stable    mmtrt       -
+wine-platform      3.0.4-4.0~rc7  58    stable    mmtrt       -
 
 Update: <br />
 snap interfaces | grep notepad-plus-plus <br />
