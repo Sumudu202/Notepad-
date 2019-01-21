@@ -12,8 +12,8 @@ kernel  4.13.0-36-generic <br /><br />
 $ snap list <br />
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Rev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tracking&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Publisher&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Notes <br />
 core&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               16-2.36.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      6130&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  stable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    canonical✓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  core <br />
-notepad-plus-plus  7.6.2          173   stable    mmtrt       - <br />
-wine-platform      3.0.4-4.0~rc7  58    stable    mmtrt       - <br /><br />
+notepad-plus-plus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  7.6.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          173&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   stable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   mmtrt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       - <br />
+wine-platform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      3.0.4-4.0~rc7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  58&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    stable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    mmtrt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       - <br /><br />
 
 Update: <br />
 snap interfaces | grep notepad-plus-plus <br />
