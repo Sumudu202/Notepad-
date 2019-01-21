@@ -9,7 +9,7 @@ series  16 <br />
 ubuntu  16.04 <br />
 kernel  4.13.0-36-generic <br /><br />
 
-$ snap list <br />
+~$ snap list <br />
 Name               Version        Rev   Tracking  Publisher   Notes <br />
 core               16-2.36.3      6130  stable    canonical✓  core <br />
 notepad-plus-plus  7.6.2          173   stable    mmtrt       - <br />
